@@ -15,7 +15,7 @@ UTILISATION
 
 run 'make' to compile
 
-run './so_long map.ber' to execute
+run './so_long examplemap.ber' to execute
 
 move around with WASD keys
 
